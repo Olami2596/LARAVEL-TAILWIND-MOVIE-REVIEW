@@ -9,7 +9,6 @@ Movie Review is a web application built using Laravel, a popular PHP framework, 
   - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
 
   
 ## Getting Started
@@ -105,51 +104,6 @@ Sort movies by their release date, popularity, or average rating.
 3. **Read and Add Reviews:**
 
 Access  and adddetailed reviews and ratings for each movie.
-
-
-
-### Contributing
-
-You can contribute to the project with the following steps:
-
-
-Fork the Project:
-
-Fork the project by clicking on the 'Fork' button on the top right corner of the GitHub page. This will create a copy of the repository in your GitHub account.
-
-
-Create Your Feature Branch:
-
-Create a new branch for your feature:
-
-   ```bash
-       git checkout -b feature/YourFeature
-
-   ```
-
-Commit Your Changes:
-
-Make your changes and commit them with a meaningful message:
-
-   ```bash
-    git commit -m 'Add some feature'
-
-   ```
-
-Push to the Branch:
-
-Push your changes to your branch on your forked repository:
-
-   ```bash
-    git push origin feature/YourFeature
-
-   ```
-
-Open a Pull Request:
-
-Open a pull request on the main repository. Provide a clear and concise description of your changes. This will initiate a discussion around your contribution.
-
-Thank you for considering contributing to this project!
 
 
 
